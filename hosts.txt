@@ -1,15 +1,4 @@
-# 8bit acid trip mobile blocklist                                #
-# A mobile Ad Provider block list                                #
-# Want to help? Email submissions to blocklist@ismeh.com         #
-# Please make sure you are using AdAway's default lists          #
-# Put Blocklist in the subject line. Only Mobile ads please      #
-# If you use this file in a project let me know                  # 
-# I like bitcoins 1CmUQ3DgL6aeTnqu6ddYYPaS7dqsefDCFK             #
-# 29-12-2012 Pew pew lasers                                      #
-
-127.0.0.1  localhost
-
-::1  localhost
+127.0.0.1 bogus-ads.efpophis.net
 127.0.0.1 ads.celtra.com
 127.0.0.1 cache-ssl.celtra.com
 127.0.0.1 cache.celtra.com
@@ -38,7 +27,6 @@
 127.0.0.1 bos-tapreq20.jumptap.com
 127.0.0.1 go.vrvm.com
 127.0.0.1 static.estebull.com
-127.0.0.1 track
 127.0.0.1 mobile.Banzai.it
 127.0.0.1 ads.xxxad.net
 127.0.0.1 hhbekxxw5d9e.pflexads.com
@@ -398,3 +386,6 @@
 127.0.0.1 cdn.vdopia.com
 127.0.0.1 api.yp.com
 127.0.0.1 r.w.inmobi.com #in app provider#
+127.0.0.1 req.startappservice.com
+127.0.0.1 static.akamai.startappexchange.com
+
