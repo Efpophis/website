@@ -1,5 +1,5 @@
 # list of domains / hosts that should be allowed thru ad blockers.
-app.adjust.com
+*.doordash.com
 trib.al
 click.redditmail.com
 *.newsbreak.com
